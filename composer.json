@@ -1,0 +1,8 @@
+{
+    "name": "nextpdf/demo",
+    "description": "demo",
+    "type": "project",
+    "require": {},
+    "autoload": {
+    }
+}
